@@ -1,1 +1,7 @@
-/vendor`n/node_modules`n/storage`n/public/storage`n/.env`n/.env.example`n/.gitignore`n/database/database.sqlite 
+/vendor
+/node_modules
+/storage
+/public/storage
+/.env
+/.env.example
+/database/database.sqlite
